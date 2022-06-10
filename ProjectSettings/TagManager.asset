@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - FingerRight
+  - FingerLeft
+  - IndexFinger
+  - LockingElement
   layers:
   - Default
   - TransparentFX
@@ -13,12 +17,12 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Walkable
+  - AlwaysVisible
+  - PostProcessing
+  - Interactible
+  - Projectible
+  - LockingElementController
   - 
   - 
   - 

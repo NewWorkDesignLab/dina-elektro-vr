@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba9ccdeda4fe9dc47b5724971b6d103c, type: 3}
+  m_Name: CustomKeyboardContainer
+  m_EditorClassIdentifier: 
+  label: 
+  id: 
+  LobbyPlayer: {fileID: 7498641465210922682, guid: 2a48a81eb0e880748b4a0da470cbbb3c,
+    type: 3}
+  NetworkPlayer: {fileID: 7498641465210922682, guid: 2a48a81eb0e880748b4a0da470cbbb3c,
+    type: 3}

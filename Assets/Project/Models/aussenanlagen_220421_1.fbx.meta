@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 33c81cbe38d9409f9b0569786c8115e6
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 211207_BG_antennas
+    second: {fileID: 2100000, guid: 2a961808722263d678e2684f9bd72cb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 220118_BGobjects2
+    second: {fileID: 2100000, guid: 6bcb1307f4bd661e78cd94add7186ffd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 220121_BGobjects_3
+    second: {fileID: 2100000, guid: 0326622b20656cb0280a5bc98ce79e5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 220122_BGobjects_4
+    second: {fileID: 2100000, guid: 90ec54d194223bf6b948b36211530ba1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 220205_aerialmap_1
+    second: {fileID: 2100000, guid: 31fca7e15d6691a0c906081b6a6f51b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Additional
+    second: {fileID: 2100000, guid: 613cedade00efb063bcf9ebda72cc320, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bad
+    second: {fileID: 2100000, guid: 8611bed62ed2f32eb9dd8785b80378f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bad_Objects
+    second: {fileID: 2100000, guid: 2ca224698f5da3b2094059fd6b580e09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Badheizung
+    second: {fileID: 2100000, guid: 9c5531cf4d2a01c7ea453fc2b98546e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balkon
+    second: {fileID: 2100000, guid: cc1959d166ba013e5bd78a9e03230ea1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flur
+    second: {fileID: 2100000, guid: 7732a8271afc235cdbb657f83e174753, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flur.001
+    second: {fileID: 2100000, guid: e16fa5974399d4fcaaeab77a6ef31491, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hochhaus.001
+    second: {fileID: 2100000, guid: ee28c1849f3ef14fcab4b1be54c06061, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HochhausKlein.001
+    second: {fileID: 2100000, guid: a9c88f0e22e34370ab992d884fa70ace, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hochhaus_AltCols
+    second: {fileID: 2100000, guid: dd5b3ea03bdb7e19f9938dd31d95d3ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KiZi
+    second: {fileID: 2100000, guid: 03520a84f79cf6494a6caa21e8a422ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ku
+    second: {fileID: 2100000, guid: 06b485e5aa27eff02bf71fae75e23921, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ku.001
+    second: {fileID: 2100000, guid: e7fe015de3bd38254a3fd4ff3f9660c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schla
+    second: {fileID: 2100000, guid: 5e5fdd8b08554b9949a7153b2688a6cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sky_borderline
+    second: {fileID: 2100000, guid: 576258a8c19823a8b8a0b9f3dc78088d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skybox
+    second: {fileID: 2100000, guid: 776d6eaeef0c1ba7da6ae716b752534b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WasserZaehler
+    second: {fileID: 2100000, guid: aa9045344b2e0e0c6a22330980518fe8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoZi
+    second: {fileID: 2100000, guid: 1f4729a776d1d81e89577492ee9b78b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: optionalwalls
+    second: {fileID: 2100000, guid: 759b1fc3fffc69a4392ec926422a638b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sky_borderline-2
+    second: {fileID: 2100000, guid: 7a5deb292adcb3e35899d2cd80691081, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 200813_atlas_KiZi_V3
+    second: {fileID: 2800000, guid: 9abe73b104f0460898e82097be688db7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 200813_atlas_schla_V2
+    second: {fileID: 2800000, guid: a90461fd73a48af7d87f1b21ea4c1eda, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 220118_1_bgObjects
+    second: {fileID: 2800000, guid: 8135e90cec04a5df7bfc8c06433bfa3c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 220121_3
+    second: {fileID: 2800000, guid: ace3b91f70c48eeda919f78f2bba7f64, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 220122_4
+    second: {fileID: 2800000, guid: 8c0a2be6d6156a2f2adf156f1a2700d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 220205_aerialmap_1
+    second: {fileID: 2800000, guid: 9272f46f4bd22a63fa8756f485e9ef14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sky_1_blur_bright
+    second: {fileID: 2800000, guid: 12f870ec8d4dfe9ea8f6d2d892c24983, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sky_borderline
+    second: {fileID: 2800000, guid: d92d81ac21696cd5f93f17bbc357d122, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 1
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
