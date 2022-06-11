@@ -7,13 +7,38 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: d9d9fa7dcd5d3f04e83e4529c4d131dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: box_placeholder
+    second: {fileID: 2100000, guid: 1c6fbcf625a946a4ba88f2b2efbb614e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: cardboard
     second: {fileID: 2100000, guid: b29de1f5682b19e44bd42acc230c3318, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: icons
+    second: {fileID: 2100000, guid: fbd5f2a10c8b71f43aece78ee6960349, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 9c6f30f5-0134-512x512
+    second: {fileID: 2800000, guid: 2b40b23499ded53469f57d53a0457014, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: cardboard-box
     second: {fileID: 2800000, guid: 9504214bb626a74488d05a1535b55602, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: package_handling_symbol_01.svg.hi
+    second: {fileID: 2800000, guid: 8942ce629ec26214db2fbdcca94c01b3, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

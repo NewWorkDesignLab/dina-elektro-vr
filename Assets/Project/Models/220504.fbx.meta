@@ -8,57 +8,57 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: AOB_01
-    second: {fileID: 2100000, guid: 7adb1ce32b537064d8032857b15218f4, type: 2}
+    second: {fileID: 2100000, guid: f8aee050deb66b946be30e9a912dfa96, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ASR_01
-    second: {fileID: 2100000, guid: 52daa56d1ed4707428b077f466dc52e5, type: 2}
+    second: {fileID: 2100000, guid: 6a62dc852d0e8d949982d6fd21d6ee65, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ASR_02
-    second: {fileID: 2100000, guid: 30ab30a0275ae284fa3cc89148fc46d9, type: 2}
+    second: {fileID: 2100000, guid: 829f6c2f8a036c84bbf412ca770e9748, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ASR_03
-    second: {fileID: 2100000, guid: d40a7bb6dc499924ebe21e85dc70ef7f, type: 2}
+    second: {fileID: 2100000, guid: 8b2361d645814834082e3e2a03ac0dfc, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ASR_03.001
-    second: {fileID: 2100000, guid: 211864cd3e11d4e4d97f38b61230cf76, type: 2}
+    second: {fileID: 2100000, guid: 5b6893078b35d244daff6289a0be6e60, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ASR_03.002
-    second: {fileID: 2100000, guid: bc957d433e2177c4eba24df954292cd2, type: 2}
+    second: {fileID: 2100000, guid: 1dd646299e7f01c4d9dd5f2c303c31ff, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ASR_03.003
-    second: {fileID: 2100000, guid: 6bf9e58f1cd78834d9cdecbfa29d247e, type: 2}
+    second: {fileID: 2100000, guid: 1216bb4c5f67d104a9ea8f42c9ed998c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ASR_04_KiZi
-    second: {fileID: 2100000, guid: bdf2f218e842c2f4697a8a9335693ec3, type: 2}
+    second: {fileID: 2100000, guid: 3ffaf2c94fa4f3f498997bcd9175baf3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ASR_04_Schla
-    second: {fileID: 2100000, guid: ee05ae68c94313041a447ace8f59c778, type: 2}
+    second: {fileID: 2100000, guid: 2237c2176a47e9c4d9d1a605b86a0270, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ASR_04_WoZi_1
-    second: {fileID: 2100000, guid: 128c2622535a46249b53d98af8b2caef, type: 2}
+    second: {fileID: 2100000, guid: 0f3fe39488647b644bcdf21a69a03f82, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ASR_04_WoZi_2
-    second: {fileID: 2100000, guid: 164dd46ad6521804a821e47780f3e9aa, type: 2}
+    second: {fileID: 2100000, guid: e530fe84d99ea5b4d88e4f6baceba9d4, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -123,72 +123,72 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.001
-    second: {fileID: 2100000, guid: 9f3ce0a5a12c95a4aa6d9fdad065a2fc, type: 2}
+    second: {fileID: 2100000, guid: f1d7565ce8071924b810056e1d2c7f39, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: SVN_01
-    second: {fileID: 2100000, guid: 5ee7cfc6ffed99145a40f530cd3a0d44, type: 2}
+    second: {fileID: 2100000, guid: 185e18ef959c4b347a1938755e17fd99, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: SVN_02
-    second: {fileID: 2100000, guid: c1a19e2cd2f1ea44ca1dd715cf3c504f, type: 2}
+    second: {fileID: 2100000, guid: e9590868d96aeb24ba3056ac7a59913b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: SVN_03
-    second: {fileID: 2100000, guid: 54d0088a1e5645a4a88f2a2d2996f599, type: 2}
+    second: {fileID: 2100000, guid: aebefb301c5a31e4bbb927d7b0a8e1a9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: SVN_03_KiZi
-    second: {fileID: 2100000, guid: f143c62c5d4614649857e50b753ecb41, type: 2}
+    second: {fileID: 2100000, guid: bc8d7b3f5b3167e4b85d6818aab933bc, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: SVN_03_WoZi_1
-    second: {fileID: 2100000, guid: d600cf4c51e44234984bc1845f66625b, type: 2}
+    second: {fileID: 2100000, guid: e339afa270cd1b0408bdb4b1d511f8e6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: SVN_03_WoZi_2_
-    second: {fileID: 2100000, guid: e92a4b51ecdd3ff42a20d936367e612c, type: 2}
+    second: {fileID: 2100000, guid: 090973389d326544593344e80bbd74e9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: SVN_04
-    second: {fileID: 2100000, guid: b17490ba84f12b041b8adad2e64ac7ba, type: 2}
+    second: {fileID: 2100000, guid: 23e1fba55e8396e49a8452f279e90014, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: SVN_07
-    second: {fileID: 2100000, guid: bacaa9a4459384a4f9a782befe5b29ca, type: 2}
+    second: {fileID: 2100000, guid: 71f4fd10e767c8742bdf40277b6a2b45, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: SVN_08
-    second: {fileID: 2100000, guid: a60c7e1dbcb3ea746b701857c5b76b85, type: 2}
+    second: {fileID: 2100000, guid: 723bee7f0e410f243bce9729ef38b82f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: SVN_10
-    second: {fileID: 2100000, guid: 2fec5a155807bee409a4114d9666e87c, type: 2}
+    second: {fileID: 2100000, guid: eed5011ce972fce48bd1b7bf19fa2d57, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: SVN_12
-    second: {fileID: 2100000, guid: 468ed5e2495118b4aa77ad7c33f724a2, type: 2}
+    second: {fileID: 2100000, guid: 47dbadbdca99ee9499c1ba9e8f9d19da, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: SVN_13
-    second: {fileID: 2100000, guid: a201d695193b2994b8813c93f81df448, type: 2}
+    second: {fileID: 2100000, guid: 56297467a37892d4ca5ef8cbc73098f0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: SVN_14
-    second: {fileID: 2100000, guid: 6aa9416eaed14654dba0ddcc53d9aaa6, type: 2}
+    second: {fileID: 2100000, guid: 86c74714fe9f46146953fb78c497b442, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -198,17 +198,17 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: VSC_02
-    second: {fileID: 2100000, guid: 293c64a1e3b779f45ba5a38bd33aa9ce, type: 2}
+    second: {fileID: 2100000, guid: a3871d1936fb1c54192c74ce303eb68b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: VSC_04
-    second: {fileID: 2100000, guid: dc5cfbf231fc4154f83fdb2818f01208, type: 2}
+    second: {fileID: 2100000, guid: f543291221eddf14bb39d6b7837afbec, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: WasserZaehler
-    second: {fileID: 2100000, guid: e2937a2b5fb92e44db8e0310a891131b, type: 2}
+    second: {fileID: 2100000, guid: 10e98b1e477d3c74e8a855136763b8c0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -223,67 +223,67 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: einbauschrank
-    second: {fileID: 2100000, guid: a4dd1c30e9adc904a82f5752dd6c4554, type: 2}
+    second: {fileID: 2100000, guid: 29628a6d16c07a44fa355aa3e2d9d47a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: gegenstaende-C2.001
-    second: {fileID: 2100000, guid: c4419be4400fdd54b91322d3c52d2675, type: 2}
+    second: {fileID: 2100000, guid: 8fa97b08beec08947aa8a458ba871a5b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: gegenstaende-C2.002
-    second: {fileID: 2100000, guid: c473569446f4ea64c96b44758d4e7766, type: 2}
+    second: {fileID: 2100000, guid: 43c68dfe084a2a14c85fe597e1b569d6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: gegenstaende-C2.003
-    second: {fileID: 2100000, guid: a0ae42449aa0a434ea77c27e45562e81, type: 2}
+    second: {fileID: 2100000, guid: 1e00786164b788941b79fe9d3f157ab7, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: gegenstaende-C2.004
-    second: {fileID: 2100000, guid: fbe9a5535f08a7b4890485c710b968e6, type: 2}
+    second: {fileID: 2100000, guid: cf8ff20d14d4193419e8ae52c3abbaea, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: gegenstaende-C3.001
-    second: {fileID: 2100000, guid: 49b5b7f3b90b9c047b9bfb5d24ba6f43, type: 2}
+    second: {fileID: 2100000, guid: 61644e5dd7c899544837a06623f36170, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: gegenstaende-C3.002
-    second: {fileID: 2100000, guid: 35114da4028cd554bb28dee2f51aaf78, type: 2}
+    second: {fileID: 2100000, guid: 92f193af2c7f345449c5155400dabd96, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: gegenstaende-C3.003
-    second: {fileID: 2100000, guid: aa6b05f2cc943934580956e7684f5bc8, type: 2}
+    second: {fileID: 2100000, guid: 93b11c51c5d88714fb1b90de7da85488, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: gegenstaende-C3.004
-    second: {fileID: 2100000, guid: 0ffb8c361b7dd7c438227353d22a4eb6, type: 2}
+    second: {fileID: 2100000, guid: 250e2a53403011049b5361cb42209ee3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: gegenstaende.001
-    second: {fileID: 2100000, guid: c2ff595ebd9e56443ba93ce34292f8ac, type: 2}
+    second: {fileID: 2100000, guid: 3753c2ccf3b343742a69f4fb26c12007, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: gegenstaende.002
-    second: {fileID: 2100000, guid: a4edc7259d991454e9ac754f78e667fa, type: 2}
+    second: {fileID: 2100000, guid: 011c2a9f2275b3c4081edf42058b1995, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: gegenstaende.003
-    second: {fileID: 2100000, guid: eb8f7d9dbeb105b4f89fefa395f74963, type: 2}
+    second: {fileID: 2100000, guid: 2b68fe47548b39b4d8ca028d99eafb3e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: gegenstaende.004
-    second: {fileID: 2100000, guid: 34f43d4d8dbd63440a28d98adbf3af39, type: 2}
+    second: {fileID: 2100000, guid: fd23ead8c7d505b418e86383b02c7f21, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -293,12 +293,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: schimmel
-    second: {fileID: 2100000, guid: 78c8c23a27a8ac1428713e0d2be8c9ef, type: 2}
+    second: {fileID: 2100000, guid: 0e87a2ff1ebf6b64788e338fe295c6b0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: schmutzfenster
-    second: {fileID: 2100000, guid: b011654f6143b5c43b95a83fd3835225, type: 2}
+    second: {fileID: 2100000, guid: 12341bc9f5b4db04bab98b59e2a052e3, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
@@ -337,21 +337,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: 210821_atlas_gegenstaende_V2
-    second: {fileID: 2800000, guid: 7608deb6b245bb5419f88877ab280595, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: 210821_atlas_gegenstaende_V2-C2
-    second: {fileID: 2800000, guid: 89cf84685f7f7b143bbda5b16696648e, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: 210821_atlas_gegenstaende_V2-C3
-    second: {fileID: 2800000, guid: be7a3806979e0c148987235b4c9ce960, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
       name: 211008_atlas_flur_OPTIONWALLS
     second: {fileID: 2800000, guid: b2d430ad8bc3994418b40d50b80e4cbe, type: 3}
   - first:
@@ -362,148 +347,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: AOB_01
-    second: {fileID: 2800000, guid: 87f6ee93bb85280408217c9746ad5e54, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: ASR_01
-    second: {fileID: 2800000, guid: 7a6dc17cdc10677459cea974a198a494, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: ASR_02
-    second: {fileID: 2800000, guid: 615f637f11d177a42aabb4c4ff2ebca6, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: ASR_03
-    second: {fileID: 2800000, guid: e71bce0e046e51540873a08e74322593, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: ASR_04_KiZi
-    second: {fileID: 2800000, guid: bf69516afbdd8e2408ad5e6f461be028, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: ASR_04_Schla
-    second: {fileID: 2800000, guid: 5180e878952d01b408f130a433d6b3ba, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: ASR_04_WoZi_1
-    second: {fileID: 2800000, guid: 9669702a20d8524459d44a99efc15eaf, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: ASR_04_WoZi_2
-    second: {fileID: 2800000, guid: 4ecacec60fcd6bb4c9a223767d76f92e, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
       name: AddObjects
     second: {fileID: 2800000, guid: 8915be822ec55184098de3cd84a69c1e, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: HeiKoZaehler
-    second: {fileID: 2800000, guid: f30f934a0e4494a42a9940dca4ca614d, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: OBJ_02
-    second: {fileID: 2800000, guid: 11d8bf95af326944e8b91a756d2697b0, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
       name: OBJ_03
     second: {fileID: 2800000, guid: cb54f330928230a46bee5fbdc97d2433, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: SVN_01
-    second: {fileID: 2800000, guid: 4d72dd6cff687644d8834a69012e1cbe, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: SVN_02
-    second: {fileID: 2800000, guid: 0683bbe946f7d304b9b4b2a763a21e2d, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: SVN_03_KiZi
-    second: {fileID: 2800000, guid: 4bbf6690bd9bffe4485f65ea1f93cbd7, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: SVN_03_Schla
-    second: {fileID: 2800000, guid: 00ce1673762bbb54f88bd1127fdc462a, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: SVN_03_WoZi_1
-    second: {fileID: 2800000, guid: 95f4ea4edaee64c499be9acbac145a9e, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: SVN_03_WoZi_2
-    second: {fileID: 2800000, guid: 13fa51af871d69145b6197b44f39bd06, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: SVN_04
-    second: {fileID: 2800000, guid: 8959dba50a87f2d4aa986ea15f006bf2, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: SVN_07
-    second: {fileID: 2800000, guid: ffdf36cb052efac47832f26b3d3a2f25, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: SVN_08
-    second: {fileID: 2800000, guid: 9b3b47b73790277478df1947ed9ea66e, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: SVN_09
-    second: {fileID: 2800000, guid: 025a38f59bc143d4ebfa735a71fe98e5, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: SVN_10
-    second: {fileID: 2800000, guid: b7c628aeddde4a949a7ff7843d4ff359, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: SVN_12
-    second: {fileID: 2800000, guid: e9856dd5d23964d4b9073cd12ea1e1da, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: SVN_13
-    second: {fileID: 2800000, guid: 69f39d8503f53924fa3f906ced20d62c, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: SVN_14
-    second: {fileID: 2800000, guid: c504e9790989f494795a0698d06bff62, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: VSC_01
-    second: {fileID: 2800000, guid: 2b6b39f2ef5e496419f0114ece13fb7f, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: VSC_02
-    second: {fileID: 2800000, guid: 8a8837a7df7b4bf44bb39de3fe7e69d4, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: VSC_04
-    second: {fileID: 2800000, guid: fd50a8273437fb242aa9bd3487591e58, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
@@ -514,11 +364,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: fenstertex
     second: {fileID: 2800000, guid: 6fc02b21252a65e45b90608155c240ca, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: wassezaehler_V2
-    second: {fileID: 2800000, guid: e4265ce8d36ce5d41830ce07deeebf4a, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
