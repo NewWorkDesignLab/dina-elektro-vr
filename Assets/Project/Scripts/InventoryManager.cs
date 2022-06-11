@@ -88,6 +88,9 @@ public class InventoryManager : MonoBehaviour
 
         if (hand == Hand.LeftHand)
             Reset();
+
+        Raycaster.instance.StartIgnoringRaycastInstance(hand == Hand.LeftHand ? "Right Controller Interaction" : "Left Controller Interaction");
+
     }
 
     public void UpdateCurrentItem(int id)
@@ -113,11 +116,11 @@ public class InventoryManager : MonoBehaviour
             if (opened)
             {
 
-                Raycaster.instance.ActivateRaycastInstance(hand == Hand.LeftHand ? "Right Controller Interaction" : "Left Controller Interaction");
+                Raycaster.instance.StopIgnoringRaycastInstance(hand == Hand.LeftHand ? "Right Controller Interaction" : "Left Controller Interaction");
             }
             else
             {
-                Raycaster.instance.DeactivateRaycastInstance(hand == Hand.LeftHand ? "Right Controller Interaction" : "Left Controller Interaction");
+                Raycaster.instance.StartIgnoringRaycastInstance(hand == Hand.LeftHand ? "Right Controller Interaction" : "Left Controller Interaction");
             }
             StartCoroutine(ScaleItemsCoroutine(_items.ToArray(), 
                 opened ? pieScale : 0, 
@@ -146,12 +149,14 @@ public class InventoryManager : MonoBehaviour
     }
     void Select()
     {
-        Reset();        
-        
+        Reset();
 
-        for (int i = 0; i < items[currentItem].itemObjects.Length; i++)
+        if (items[currentItem].itemObjects != null)
         {
-            items[currentItem].itemObjects[i].SetActive(true);
+            for (int i = 0; i < items[currentItem].itemObjects.Length; i++)
+            {
+                items[currentItem].itemObjects[i].SetActive(true);
+            }
         }
         if (items[currentItem].bothHandsNeeded)
         {
